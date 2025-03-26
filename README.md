@@ -1,1 +1,10 @@
+.env file configuration
+MONGODB_URI=
+PORT=5001
+JWT_SECRET=mysecretkey
 
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+
+NODE_ENV=development
